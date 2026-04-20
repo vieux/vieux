@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Vieux
 
-<!--
-**vieux/vieux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some notable open-source projects I've contributed to:
 
-Here are some ideas to get you started:
+* 🐳 [docker](https://github.com/moby/moby)
+* 🌐 [curl](https://github.com/curl/curl)
+* ☁️ [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor)
+* ☸️ [k8s controller-runtime](https://github.com/kubernetes-sigs/controller-runtime)
+* 📊 [metabase](https://github.com/metabase/metabase)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Side projects
+
+* 🎮 [vrgl117-games](https://github.com/vrgl117-games) — Nintendo 64 homebrew development
+* ⚡ [VoltFramework](https://github.com/VoltFramework/volt) — Mesos framework *(archived)*
+* 📈 [gocover](https://github.com/vieux/gocover.io) — Code coverage for Go packages *(archived)*
