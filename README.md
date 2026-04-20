@@ -1,6 +1,4 @@
-# 👋 Vieux
-
-Some notable open-source projects I've contributed to:
+### Some notable open-source projects I've contributed to:
 
 * 🐳 [docker](https://github.com/moby/moby)
 * 🌐 [curl](https://github.com/curl/curl)
@@ -8,7 +6,7 @@ Some notable open-source projects I've contributed to:
 * ☸️ [k8s controller-runtime](https://github.com/kubernetes-sigs/controller-runtime)
 * 📊 [metabase](https://github.com/metabase/metabase)
 
-## Side projects
+### Side projects
 
 * 🎮 [vrgl117-games](https://github.com/vrgl117-games) — Nintendo 64 homebrew development
 * ⚡ [VoltFramework](https://github.com/VoltFramework/volt) — Mesos framework *(archived)*
